@@ -1,0 +1,52 @@
+﻿Organization ID,Organization Code,Organization Name,Organization Type,Parent Organization ID,Degree Level,Accreditation,Status,Source
+FAC-FMIPA,FMIPA,Fakultas MIPA,Faculty,,,,Active,Organisasi FMIPA(1).xlsx
+DEP-04,DEP04,Jurusan Biologi,Department,FAC-FMIPA,,,Active,Organisasi FMIPA(1).xlsx
+DEP-02,DEP02,Jurusan Fisika,Department,FAC-FMIPA,,,Active,Organisasi FMIPA(1).xlsx
+DEP-05,DEP05,Jurusan Geografi,Department,FAC-FMIPA,,,Active,Organisasi FMIPA(1).xlsx
+DEP-03,DEP03,Jurusan Kimia,Department,FAC-FMIPA,,,Active,Organisasi FMIPA(1).xlsx
+DEP-01,DEP01,Jurusan Matematika,Department,FAC-FMIPA,,,Active,Organisasi FMIPA(1).xlsx
+DEP-06,DEP06,Jurusan Pendidikan IPA,Department,FAC-FMIPA,,,Active,Organisasi FMIPA(1).xlsx
+DEP-07,DEP07,Jurusan Statistika,Department,FAC-FMIPA,,,Active,Organisasi FMIPA(1).xlsx
+SP-02-05,SP-02-05,Doktor Fisika,Study Program,DEP-02,S3,Baik,Active,Organisasi FMIPA(1).xlsx
+SP-01-07,SP-01-07,Doktor Matematika Terapan,Study Program,DEP-01,S3,Baik,Active,Organisasi FMIPA(1).xlsx
+SP-04-06,SP-04-06,Doktor Pendidikan Biologi,Study Program,DEP-04,S3,Baik,Active,Organisasi FMIPA(1).xlsx
+SP-01-06,SP-01-06,Doktor Pendidikan Matematika,Study Program,DEP-01,S3,Baik,Active,Organisasi FMIPA(1).xlsx
+SP-04-05,SP-04-05,Magister Bioteknologi,Study Program,DEP-04,S2,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-02-04,SP-02-04,Magister Fisika,Study Program,DEP-02,S2,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-03-05,SP-03-05,Magister Kimia Terapan,Study Program,DEP-03,S2,Baik,Active,Organisasi FMIPA(1).xlsx
+SP-01-05,SP-01-05,Magister Matematika Terapan,Study Program,DEP-01,S2,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-04-04,SP-04-04,Magister Pendidikan Biologi,Study Program,DEP-04,S2,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-02-03,SP-02-03,Magister Pendidikan Fisika,Study Program,DEP-02,S2,Sangat Baik,Active,Organisasi FMIPA(1).xlsx
+SP-05-04,SP-05-04,Magister Pendidikan Geografi,Study Program,DEP-05,S2,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-06-02,SP-06-02,Magister Pendidikan IPA,Study Program,DEP-06,S2,Baik,Active,Organisasi FMIPA(1).xlsx
+SP-03-04,SP-03-04,Magister Pendidikan Kimia,Study Program,DEP-03,S2,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-01-04,SP-01-04,Magister Pendidikan Matematika,Study Program,DEP-01,S2,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-07-03,SP-07-03,Magister Statistika,Study Program,DEP-07,S2,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-01-03,SP-01-03,Sarjana Aktuaria,Study Program,DEP-01,S1,Baik,Active,Organisasi FMIPA(1).xlsx
+SP-04-02,SP-04-02,Sarjana Biologi,Study Program,DEP-04,S1,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-04-03,SP-04-03,Sarjana Bioteknologi,Study Program,DEP-04,S1,Baik,Active,Organisasi FMIPA(1).xlsx
+SP-02-02,SP-02-02,Sarjana Fisika,Study Program,DEP-02,S1,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-05-02,SP-05-02,Sarjana Geografi,Study Program,DEP-05,S1,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-03-02,SP-03-02,Sarjana Kimia,Study Program,DEP-03,S1,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-01-02,SP-01-02,Sarjana Matematika,Study Program,DEP-01,S1,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-04-01,SP-04-01,Sarjana Pendidikan Biologi,Study Program,DEP-04,S1,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-02-01,SP-02-01,Sarjana Pendidikan Fisika,Study Program,DEP-02,S1,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-05-01,SP-05-01,Sarjana Pendidikan Geografi,Study Program,DEP-05,S1,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-06-01,SP-06-01,Sarjana Pendidikan IPA,Study Program,DEP-06,S1,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-03-01,SP-03-01,Sarjana Pendidikan Kimia,Study Program,DEP-03,S1,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-01-01,SP-01-01,Sarjana Pendidikan Matematika,Study Program,DEP-01,S1,Unggul,Active,Organisasi FMIPA(1).xlsx
+SP-07-02,SP-07-02,Sarjana Sains Data,Study Program,DEP-07,S1,Baik,Active,Organisasi FMIPA(1).xlsx
+SP-05-03,SP-05-03,Sarjana Sains Informasi Geografi,Study Program,DEP-05,S1,Baik,Active,Organisasi FMIPA(1).xlsx
+SP-03-03,SP-03-03,Sarjana Sains Lingkungan,Study Program,DEP-03,S1,Baik,Active,Organisasi FMIPA(1).xlsx
+SP-07-01,SP-07-01,Sarjana Statistika,Study Program,DEP-07,S1,Unggul,Active,Organisasi FMIPA(1).xlsx
+UNIT-02,UNIT02,UPA BK,Supporting Unit,FAC-FMIPA,,,Active,Organisasi FMIPA(1).xlsx
+UNIT-01,UNIT01,UPA ICT,Supporting Unit,FAC-FMIPA,,,Active,Organisasi FMIPA(1).xlsx
+UNIT-03,UNIT03,UPM,Supporting Unit,FAC-FMIPA,,,Active,Organisasi FMIPA(1).xlsx
+LAB-04,LAB04,Laboratorium Biologi,Laboratory,FAC-FMIPA,,,Active,Organisasi FMIPA(1).xlsx
+LAB-05,LAB05,Laboratorium Fisika,Laboratory,FAC-FMIPA,,,Active,Organisasi FMIPA(1).xlsx
+LAB-01,LAB01,Laboratorium Geografi,Laboratory,FAC-FMIPA,,,Active,Organisasi FMIPA(1).xlsx
+LAB-02,LAB02,Laboratorium Kimia,Laboratory,FAC-FMIPA,,,Active,Organisasi FMIPA(1).xlsx
+LAB-03,LAB03,Laboratorium Matematika,Laboratory,FAC-FMIPA,,,Active,Organisasi FMIPA(1).xlsx
+LAB-08,LAB08,Laboratorium Microteaching,Laboratory,FAC-FMIPA,,,Active,Organisasi FMIPA(1).xlsx
+LAB-06,LAB06,Laboratorium Statistika,Laboratory,FAC-FMIPA,,,Active,Organisasi FMIPA(1).xlsx
+LAB-07,LAB07,Laboratorium Terpadu,Laboratory,FAC-FMIPA,,,Active,Organisasi FMIPA(1).xlsx

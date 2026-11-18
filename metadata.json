@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Manajemen Program Kerja FMIPA UNM",
+  "description": "Aplikasi manajemen perencanaan, pengajuan, evaluasi, pelaksanaan, pemantauan, dan dokumentasi program kerja Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) Universitas Negeri Makassar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

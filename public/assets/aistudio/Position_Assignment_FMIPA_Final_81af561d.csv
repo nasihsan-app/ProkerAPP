@@ -1,0 +1,51 @@
+﻿Assignment_ID,Person_ID,Organization_ID,Position,Status
+ASN-001,DSN-112,SP-01-01,Ketua Program Studi,Active
+ASN-002,DSN-136,SP-01-02,Ketua Program Studi,Active
+ASN-003,DSN-038,SP-01-03,Ketua Program Studi,Active
+ASN-004,DSN-101,SP-01-04,Ketua Program Studi,Active
+ASN-005,DSN-059,SP-01-05,Ketua Program Studi,Active
+ASN-006,DSN-046,SP-01-06,Ketua Program Studi,Active
+ASN-007,DSN-059,SP-01-07,Ketua Program Studi,Active
+ASN-008,DSN-117,SP-02-01,Ketua Program Studi,Active
+ASN-009,DSN-114,SP-02-02,Ketua Program Studi,Active
+ASN-010,DSN-074,SP-02-03,Ketua Program Studi,Active
+ASN-011,DSN-026,SP-02-04,Ketua Program Studi,Active
+ASN-012,DSN-026,SP-02-05,Ketua Program Studi,Active
+ASN-013,DSN-088,SP-03-01,Ketua Program Studi,Active
+ASN-014,DSN-106,SP-03-02,Ketua Program Studi,Active
+ASN-015,DSN-120,SP-03-03,Ketua Program Studi,Active
+ASN-016,DSN-044,SP-03-04,Ketua Program Studi,Active
+ASN-017,DSN-063,SP-03-05,Ketua Program Studi,Active
+ASN-018,DSN-065,SP-04-01,Ketua Program Studi,Active
+ASN-019,DSN-017,SP-04-02,Ketua Program Studi,Active
+ASN-020,DSN-058,SP-04-03,Ketua Program Studi,Active
+ASN-021,DSN-001,SP-04-04,Ketua Program Studi,Active
+ASN-022,DSN-032,SP-04-05,Ketua Program Studi,Active
+ASN-023,DSN-023,SP-04-06,Ketua Program Studi,Active
+ASN-024,DSN-110,SP-05-01,Ketua Program Studi,Active
+ASN-025,DSN-087,SP-05-02,Ketua Program Studi,Active
+ASN-026,DSN-073,SP-05-03,Ketua Program Studi,Active
+ASN-027,DSN-105,SP-05-04,Ketua Program Studi,Active
+ASN-028,DSN-039,SP-06-01,Ketua Program Studi,Active
+ASN-029,DSN-039,SP-06-02,Ketua Program Studi,Active
+ASN-030,DSN-095,SP-07-01,Ketua Program Studi,Active
+ASN-031,DSN-191,SP-07-02,Ketua Program Studi,Active
+ASN-032,DSN-077,SP-07-03,Ketua Program Studi,Active
+ASN-033,DSN-040,UNIT-01,Kepala/Koordinator UPA ICT,Active
+ASN-034,DSN-193,UNIT-02,Kepala/Koordinator UPA BK,Active
+ASN-035,DSN-123,UNIT-03,Ketua UPM,Active
+ASN-036,DSN-048,LAB-01,Kepala Laboratorium,Active
+ASN-037,DSN-049,LAB-02,Kepala Laboratorium,Active
+ASN-038,DSN-076,LAB-03,Kepala Laboratorium,Active
+ASN-039,DSN-067,LAB-04,Kepala Laboratorium,Active
+ASN-040,DSN-096,LAB-05,Kepala Laboratorium,Active
+ASN-041,DSN-131,LAB-06,Kepala Laboratorium,Active
+ASN-042,DSN-100,LAB-07,Kepala Laboratorium,Active
+ASN-043,DSN-138,LAB-08,Kepala Laboratorium,Active
+ASN-044,DSN-036,DEP-03,Ketua Jurusan,Active
+ASN-045,DSN-045,DEP-02,Ketua Jurusan,Active
+ASN-046,DSN-039,DEP-06,Ketua Jurusan,Active
+ASN-047,DSN-068,DEP-04,Ketua Jurusan,Active
+ASN-048,DSN-083,DEP-07,Ketua Jurusan,Active
+ASN-049,DSN-109,DEP-01,Ketua Jurusan,Active
+ASN-050,DSN-089,DEP-05,Ketua Jurusan,Active
